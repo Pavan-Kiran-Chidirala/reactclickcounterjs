@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.main-holder {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  background-color: #f1f5f8;
+}
+.main-heading {
+  font-size: 40px;
+}
+.violet {
+  color: #c20a72;
+}
+.para {
+  color: #2d3a35;
+}
+.btn {
+  font-size: small;
+  background-color: #007bff;
+  border-style: none;
+  padding: 5px;
+  color: white;
+  width: 80px;
+  border-radius: 2px;
+}
